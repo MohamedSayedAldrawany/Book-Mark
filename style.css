@@ -1,0 +1,142 @@
+
+/* :root{
+
+    --fon
+
+} */
+
+/* headr */
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+header div{
+
+    width: 85%;
+    color: #AAA;
+    font-weight:  bold;
+    font-size: 29px; 
+    border-bottom:solid 1px #6c6161 ;
+
+
+}
+
+
+/* form */
+
+.form-control{
+
+    padding: 2px 5px;
+
+}
+
+
+
+.form{
+
+    width: 80%;
+    background-color: #EEE;
+    padding: 30px;
+    padding-bottom: 50px;
+
+}
+
+.form h2{
+
+    font-size: 24;
+    font-weight: bold;
+    
+}
+
+label{
+    font-weight: bold;
+    color: #333;
+
+}
+
+
+.inner-form {
+
+    overflow: hidden; 
+
+    
+}
+
+.content{
+
+    width: 90%;
+}
+
+
+
+
+#alertname ,#alerturl {
+    display: none;
+}
+
+
+
+
+
+
+/* data */
+
+
+.data{
+
+    width: 80%;
+    /* border:#AAA ; */
+    border-bottom:solid 1px #6c6161 ;
+    
+    
+   
+}
+
+.inner-data {
+
+    width:100%;
+    background-image: linear-gradient(#EEE,#FFF);
+
+
+}
+
+
+.inner-data h2 {
+
+    width: 35%;
+    color: #333;
+    font-weight: bold;
+
+
+}
+.inner-data button {
+
+    padding:10px 15px ;
+    margin: 15px 5px ;
+    font-size: 15px;
+    background-color: #910004;
+
+}
+
+
+.inner-data a{
+
+    padding:10px 15px ;
+    margin: 15px 5px ;
+    font-size: 15px;
+   
+}
+
+
+
+/* footer */
+
+footer p{
+
+    color: #AAA;
+    font-weight: bold;
+   
+
+}
